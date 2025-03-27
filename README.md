@@ -1,1 +1,1 @@
-Consequently, there might be slight variations between the results presented here and those obtained by other students. However, these solutions were sufficient to pass the course.
+These assignments were graded using Coursera's automated grading tool. Consequently, there might be slight variations between the results presented here and those obtained by other students. However, these solutions were sufficient to pass the course.
